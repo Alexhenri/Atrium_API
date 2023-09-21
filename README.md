@@ -10,7 +10,7 @@ In this stage, we created an API to put into practice everything that was learne
 Will be necessary to have all the Python libraries listed in the `requirements.txt` installed. 
 After cloning the repository, will be necessary to navigate to the root directory through the terminal to execute the commands described below.
 
-> It is strongly recommended to use virtual environments like[virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
+> It is strongly recommended to use virtual environments like [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
 
 ```
 (env)$ pip install -r requirements.txt
